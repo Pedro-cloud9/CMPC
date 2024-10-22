@@ -3,6 +3,7 @@
 ## Autor
 Pedro Villanueva González  
 Punta Arenas, Chile
+villanuevamurdo@gmail.com
 
 ## Introducción
 La Computadora Modular de Comunicación en Paralelo (CMCP) es un sistema innovador que se basa en un diseño modular y una eficiente distribución de datos a través de canales en paralelo. Este informe explora la estructura del CMCP, su funcionamiento y las innovaciones que aporta en comparación con los modelos de computación tradicionales.
